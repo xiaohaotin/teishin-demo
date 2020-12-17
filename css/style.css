@@ -183,9 +183,9 @@ header .navbar-collapse  ul.navbar-nav {
     float: right;
     margin-right: 0;
 }
-header .navbar {min-height: 70px;padding: 18px 0;background: #0fcabf;}
+header .navbar {min-height: 70px;padding: 18px 0;background: #808080;}
 .home-page header .navbar-default{
-    background: #0fcabf;
+    background: #808080;
     /* position: absolute; */
     width: 100%;
 }
