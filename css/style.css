@@ -1721,7 +1721,7 @@ padding-top: 3px;
   overflow: hidden;
 }
 .img_wrap img{
-  width: 100%;
+  width: auto;
   cursor: pointer;
   transition-duration: 0.3s;
 }
